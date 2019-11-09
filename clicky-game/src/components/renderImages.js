@@ -4,15 +4,13 @@ var styling = {
     container:{
         padding: '10px',
         border: 'none',
-        textAlign: 'center'
+        textAlign: 'center',
     },
     image: {
         padding: '10px',
         border: '1px solid rgba(0, 0, 0, 0.25)',
-        width: '200px',
         height: '200px',
-        maxHeight: '200px',
-        maxWidth: '200px',
+        maxWidth: '250px',
         backgroundColor: '#86A3c3',
         
     }
@@ -27,7 +25,6 @@ const ImageRender = (props) => {
                 alt={props.name}
                 key={props.id} onClick={()=>props.handleClick(props.id, props.clicked)}>  
             </img>
-            
         </div>
     )   
 }
