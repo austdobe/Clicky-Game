@@ -64,7 +64,7 @@ class GameContainer extends Component{
         return(
             <div style={styling.body}>
                 <div style={styling.nav} className="navbar">
-                    <h1 style={{marginLeft:"20px"}}>CLicky Game</h1>
+                    <h1 style={{marginLeft:"20px"}}>Clicky Paws</h1>
                     <p style={styling.MessageText}>
                         {this.state.message}
                     </p>
