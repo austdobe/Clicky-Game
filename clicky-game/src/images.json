@@ -1,0 +1,99 @@
+[
+    {
+        "id": 1,
+        "name": "image1",
+        "clicked": false,
+        "image": "https://petcentral.chewy.com/wp-content/uploads/2018/05/1-yorkshire-terrier-x-670-440x.jpg"
+    },
+    {
+        "id": 2,
+        "name": "image2",
+        "clicked": false,
+        "image": "https://photos.puppyspot.com/breeds/219/card/500000282_medium.jpg"
+    },
+    {
+        "id": 3,
+        "name": "image3",
+        "clicked": false,
+        "image": "https://i2.wp.com/dogsupporters.com/wp-content/uploads/2017/08/Labrador-Retriever-MP.jpg?resize=729%2C486&ssl=1"
+    },
+    {
+        "id": 4,
+        "name": "image4",
+        "clicked": false,
+        "image": "https://photos.puppyspot.com/breeds/264/card/500000285_medium.jpg"
+    },
+    {
+        "id": 5,
+        "name": "image5",
+        "clicked": false,
+        "image": "https://www.keystonepuppies.com/wp-content/uploads/2018/09/Gino-Airedale-640x525.jpg"
+    },
+    {
+        "id": 6,
+        "name": "image6",
+        "clicked": false,
+        "image": "https://www.sheknows.com/wp-content/uploads/2018/08/fajkx3pdvvt9ax6btssg.jpeg?w=695&h=391&crop=1"
+    },
+     {
+        "id": 7,
+        "name": "image7",
+        "clicked": false,
+        "image": "https://cdn1-www.dogtime.com/assets/uploads/2016/04/small-apartment-dog-breeds-32.jpg"
+    },
+    {
+        "id": 8,
+        "name": "image8",
+        "clicked": false,
+        "image": "https://www.mydomaine.com/thmb/XJVkdPE7JcMBMkjsXpvZovBArpg=/700x500/filters:no_upscale():max_bytes(150000):strip_icc()/cdn.cliqueinc.com__cache__posts__271400__calmest-dog-breeds-271400-1540943475305-image.700x0c-6ccb926016e54be3abd9d02b2b81d853.jpg"
+    },
+    {
+        "id": 9,
+        "name": "image9",
+        "clicked": false,
+        "image": "https://www.rd.com/wp-content/uploads/2019/01/shutterstock_115329475-760x506.jpg"
+    },
+    {
+        "id": 10,
+        "name": "image10",
+        "clicked": false,
+        "image": "https://iheartdogs.com/wp-content/uploads/2015/01/8431547533_5afbe4d158_z.jpg"
+    },
+    {
+        "id": 11,
+        "name": "image11",
+        "clicked": false,
+        "image": "http://cdn.akc.org/content/article-body-image/chocolate_lab_cute_puppies.jpg"
+    },
+    {
+        "id": 12,
+        "name": "image12",
+        "clicked": false,
+        "image": "https://www.readersdigest.ca/wp-content/uploads/sites/14/2019/03/dog-Pembroke-Welsh-Corgi.jpg"
+    },
+    {
+        "id": 13,
+        "name": "image13",
+        "clicked": false,
+        "image": "https://gfp-2a3tnpzj.stackpathdns.com/wp-content/uploads/2018/11/Forever-Puppy-600x600.jpg"
+    },
+    {
+        "id": 14,
+        "name": "image14",
+        "clicked": false,
+        "image": "https://www.keystonepuppies.com/wp-content/uploads/2018/09/Akbash-640x525.jpg"
+    },
+    {
+        "id": 15,
+        "name": "image15",
+        "clicked": false,
+        "image": "http://cdn.akc.org/content/article-body-image/akita.jpg"
+    },
+     {
+        "id": 16,
+        "name": "image16",
+        "clicked": false,
+        "image": "https://core.pupcdn.com/assets/puppyspot/img/schema/breed/labrador-retriever_aspect-ratio_1x1.jpg"
+    }
+
+]
